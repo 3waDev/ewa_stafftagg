@@ -1,6 +1,6 @@
 RegisterNetEvent("ewa-moderatorTagg:function:notify")
 AddEventHandler("ewa-moderatorTagg:function:notify", function()
-    exports['okokNotify']:Alert('Tilburg', 'Alleen moderators kan dit doen', 5000, 'error')
+    exports['okokNotify']:Alert('Server', 'Alleen moderators kan dit doen', 5000, 'error')
 end)
 
 DrawScriptText = function(x, y, z, text)
