@@ -1,6 +1,6 @@
 RegisterNetEvent("ewa-managementTagg:function:notify")
 AddEventHandler("ewa-managementTagg:function:notify", function()
-    exports['okokNotify']:Alert('Tilburg', 'Alleen management kan dit doen', 5000, 'error')
+    exports['okokNotify']:Alert('Server', 'Alleen management kan dit doen', 5000, 'error')
 end)
 
 DrawScriptText = function(x, y, z, text)
