@@ -1,4 +1,4 @@
-# ewa_stafftagg
+# Uitleg
 Dit is een nederlands script waarmee je staffleden een tagg boven hun hoofd krijgen
 
 Het originele script is https://forum.cfx.re/t/free-esx-qb-cyclus-stafftag/4998655
