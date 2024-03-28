@@ -5,3 +5,5 @@ Het originele script is https://forum.cfx.re/t/free-esx-qb-cyclus-stafftag/49986
 
 Dit script heeft een tagg voor Management, Moderator en Owner
 
+Dependencies
+okokNotify
